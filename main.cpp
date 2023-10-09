@@ -103,13 +103,13 @@ door.close();
 //  action 3: the door lock
 door.lock
 //  7)
-//  Noun: computer
-//  action 1: computer run the ISO
-computer.runIso();
-//  action 2: computer ask password
-computer.password();
-//  action 3: computer off
-computer.off();
+//  Noun: TV
+//  action 1: Show content
+tv.showContent();
+//  action 2: program channels
+tv.programChannels();
+//  action 3: Tv off
+tv.off();
 //  8) 
 //  Noun: phone
 //  action 1: phone call
