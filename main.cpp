@@ -103,13 +103,13 @@ door.close();
 //  action 3: the door lock
 door.lock
 //  7)
-//  Noun: TV
+//  Noun: tvPlayer
 //  action 1: Show content
-tv.showContent();
+tvPlayer.showContent();
 //  action 2: program channels
-tv.programChannels();
+tvPlayer.programChannels();
 //  action 3: Tv off
-tv.off();
+tvPlayer.off();
 //  8) 
 //  Noun: phone
 //  action 1: phone call
