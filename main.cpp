@@ -52,85 +52,88 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:  Game
+//  action 1: start the game
+game.start();
+//  action 2: choose the player
+game.chooseThePlayer();
 
-//  action 2:
-
-//  action 3:
+//  action 3: run the map
+game.run();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: baby
+//  action 1: baby cry
+baby.cry();
+//  action 2: baby pop
+baby.pop();
+//  action 3: baby gets up
+baby.getsUp();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: wizard
+//  action 1: wizard fly
+wizard.fly();
+//  action 2: wizard use a potion
+wizard.usePotion();
+//  action 3: wizard do magic
+wizard.doMagic();
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: bomb
+//  action 1: start bomb timer
+bomb.timerStart();
+//  action 2: the timer of the bomb sounds
+bomb.soundTimer();
 
-//  action 2:
-
-//  action 3:
-
+//  action 3: disconnected the bomb
+bomb.disconnected();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bee
+//  action 1: bee fly
+bee.fly();
+//  action 2: bee take polen
+bee.takePolen();
+//  action 3: bee fight
+bee.fight();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: door
+//  action 1: the door open
+door.open();
+//  action 2: the door close
+door.close();
+//  action 3: the door lock
+door.lock
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: tvPlayer
+//  action 1: Show content
+tvPlayer.showContent();
+//  action 2: program channels
+tvPlayer.programChannels();
+//  action 3: Tv off
+tvPlayer.off();
+//  8) 
+//  Noun: phone
+//  action 1: phone call
+phone.call();
+//  action 2: phone send a message
+phone.sendMessage();
+//  action 3: phone charge battery
+phone.chargeBattery();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: lion
+//  action 1: lion hunts
+lion.hunt();
+//  action 2: lion run
+lion.run();
+//  action 3: lion sleep
+lion.sleep();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: human
+//  action 1: human drink a beer
+human.drinkBeer();
+//  action 2: human eat burguer
+human.eatBurguer();
+//  action 3: human sleep siesta
+human.sleepSiesta();
 
 
 #endif
